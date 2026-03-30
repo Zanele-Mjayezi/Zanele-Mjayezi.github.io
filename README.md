@@ -55,3 +55,5 @@ Motivated and dedicated IT student currently completing a Diploma in ICT (Commun
   Company: CPUT  
   Contact: +27 21 460 3043  
   Email: hendricksw@cput.ac.za
+
+  [Watch My Mock Interview](mock-interview.mp4)
