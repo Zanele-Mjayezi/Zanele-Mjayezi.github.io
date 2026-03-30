@@ -1,5 +1,5 @@
 # Zanele-Mjayezi.github.io
-![Profile Photo](Profile Photo.jpg)
+![Profile Photo](Profile%20Photo)
 
 # ZANELE MJAYEZI
 
