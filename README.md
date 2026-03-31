@@ -56,4 +56,8 @@ Motivated and dedicated IT student currently completing a Diploma in ICT (Commun
   Contact: +27 21 460 3043  
   Email: hendricksw@cput.ac.za
 
+  <video width="600" controls
+  src="mock interview of Zanele Mjayezi.mp4">
+  </video>
+
   
