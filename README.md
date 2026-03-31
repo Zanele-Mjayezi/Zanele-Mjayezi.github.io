@@ -60,6 +60,9 @@ Motivated and dedicated IT student currently completing a Diploma in ICT (Commun
   <source src="mock-interview.mp4" type="video/mp4">
 </video>
 
+## Mock Interview Video
+[Watch my video](https://zanele-mjayezi.github.io/)
+
  
 
   
