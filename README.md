@@ -77,6 +77,34 @@ I used Markdown syntax such as headings, lists, and bold text to organise my CV 
 **Result:**  
 I successfully created a well-structured CV using Markdown. I learned how to format documents using Markdown and gained confidence in using GitHub. This skill will help me in future projects and when presenting information professionally.
 
+## 🎤 Reflection: Mock Interview Video (STAR Method)
+
+**Situation:**  
+I was required to record and embed a mock interview video as part of my digital portfolio.
+
+**Task:**  
+My task was to prepare for the interview, answer questions clearly, and present myself professionally while recording the video.
+
+**Action:**  
+I prepared by reviewing common interview questions and practicing my answers. I recorded the video and ensured that I spoke clearly and confidently. After recording, I uploaded the video and embedded it into my portfolio using markdown. I checked that the video was working properly on GitHub Pages.
+
+**Result:**  
+I successfully completed and embedded my mock interview video. This experience improved my communication skills and boosted my confidence in interviews. I also learned how to embed videos into web pages using markdown.
+
+## 🌐 Reflection: Publishing on GitHub Pages (STAR Method)
+
+**Situation:**  
+I was required to publish my digital portfolio online using GitHub Pages.
+
+**Task:**  
+My responsibility was to configure my repository and make my portfolio accessible as a live website.
+
+**Action:**  
+I enabled GitHub Pages through the repository settings and selected the main branch. I ensured that my files were correctly uploaded and formatted so that they would display properly online. I tested the website link and made adjustments when needed.
+
+**Result:**  
+I successfully published my portfolio on GitHub Pages. I learned how to deploy a website and troubleshoot issues related to file structure and formatting. This skill is important for web development and will be useful in future projects.
+
  
 
   
