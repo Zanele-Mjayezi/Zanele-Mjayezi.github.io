@@ -63,6 +63,20 @@ Motivated and dedicated IT student currently completing a Diploma in ICT (Commun
 ## Mock Interview Video
 [Watch my video](https://zanele-mjayezi.github.io/)
 
+## 🧠 Reflection: Coding CV using Markdown (STAR Method)
+
+**Situation:**  
+I was required to create a professional CV using Markdown and upload it to my GitHub repository as part of my digital portfolio.
+
+**Task:**  
+My responsibility was to learn how Markdown works and use it to structure my CV in a clear and professional format.
+
+**Action:**  
+I used Markdown syntax such as headings, lists, and bold text to organise my CV into sections like contact details, education, skills, and projects. I also uploaded my file to GitHub and ensured that it displayed correctly. During the process, I experimented with formatting and corrected errors to improve the layout.
+
+**Result:**  
+I successfully created a well-structured CV using Markdown. I learned how to format documents using Markdown and gained confidence in using GitHub. This skill will help me in future projects and when presenting information professionally.
+
  
 
   
